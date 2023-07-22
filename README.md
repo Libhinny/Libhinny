@@ -3,8 +3,8 @@
 
 <div>
 <a href="https://github.com/Libhinny">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Libhinny-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?Libhinny-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/Libhinny-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/apiLibhinny-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 #### What I'm learning 
