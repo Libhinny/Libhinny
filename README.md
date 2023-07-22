@@ -1,5 +1,5 @@
 # 👋 Hello, welcome to my Github profile!
-## My name is Libhinny and i'm a student of science and technology
+# My name is Libhinny and i'm a student of science and technology
 
 ## What I'm learning 
 <img loading= "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
