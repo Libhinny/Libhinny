@@ -1,5 +1,10 @@
 # 👋 Hello, welcome to my Github profile!
-#### My name is Libhinny and i'm a student of science and technology
+#### My name is Libhinny and i'm a student of science and technology  <p float="left">
+
+ <img src="![octocat-1690041376522](https://github.com/Libhinny/Libhinny/assets/101879772/8f920a24-1245-4010-8417-bbcbe4602487)
+" width="200" />
+
+</p>
 
 <div>
 <a href="https://github.com/Libhinny">
