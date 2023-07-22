@@ -1,6 +1,12 @@
 # 👋 Hello, welcome to my Github profile!
 #### My name is Libhinny and i'm a student of science and technology
 
+<div>
+<a href="https://github.com/Libhinny">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Libhinny-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?Libhinny-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 #### What I'm learning 
 <img loading= "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
 
