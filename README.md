@@ -8,7 +8,7 @@
 </div>
 
 ### What I'm learning 
-<img loading= "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/><img src="<img src="<i class="devicon-codepen-plain"></i>" />" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original-wordmark.svg" width="40" height="40"/>
+<img loading= "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original-wordmark.svg" width="40" height="40"/>
 
 <!--
 **Libhinny/Libhinny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
