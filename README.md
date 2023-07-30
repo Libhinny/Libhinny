@@ -7,7 +7,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Libhinny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-### What I'm learning 
+### What I'm learning and using
 <img loading= "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original-wordmark.svg" width="40" height="40"/>
 
 <!--
