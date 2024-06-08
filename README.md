@@ -1,5 +1,5 @@
 # 👋 Hello, welcome to my Github profile!
-#### My name is Libhinny and I'm a student of Science and Technology 
+#### My name is Libhinny and I'm a student of Computer Engineering
 
 <div>
 <a href="https://github.com/Libhinny">
